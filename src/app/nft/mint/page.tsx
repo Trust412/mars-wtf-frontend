@@ -88,7 +88,7 @@ export default function Home() {
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://t.me/mars_wtf" target="_blank">
+                                    <a href="https://t.me/rannieturla" target="_blank">
                                     <img src="/img/telegram.svg" alt="" />
                                     </a>
                                 </li>
